@@ -1,5 +1,5 @@
 #PROYECTO HEROES
 Integrantes : 
 -Belen Romero
--Lautaro Valenzuela
+-Lautaro Valenzuela = 22, San Miguel
 -Julieta Villagran
